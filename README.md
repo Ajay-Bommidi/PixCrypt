@@ -16,7 +16,6 @@ To get started with PixCrypt, follow these steps:
 ### 1️⃣ Clone the Repository
 ```bash
 https://github.com/Ajay-Bommidi/PRODIGY_CS_02.git
-cd PixCrypt
 ```
 
 ### 2️⃣ Install Dependencies
