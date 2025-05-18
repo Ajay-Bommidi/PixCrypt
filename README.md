@@ -14,10 +14,14 @@ PixCrypt is a lightweight but powerful tool for encrypting and decrypting images
 ---
 ## 🔧 Installation
 To get started with PixCrypt, follow these steps:
+```bash
+sudo python3 -m venv myenv
+source myenv/bin/activate
+```
 
 ### 1️⃣ Clone the Repository
 ```bash
-https://github.com/Ajay-Bommidi/PixCrypt.git
+sudo git clone https://github.com/Ajay-Bommidi/PixCrypt.git
 ```
 
 ### 2️⃣ Install Dependencies
