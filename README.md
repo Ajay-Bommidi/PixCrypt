@@ -22,6 +22,7 @@ source myenv/bin/activate
 ### 1️⃣ Clone the Repository
 ```bash
 sudo git clone https://github.com/Ajay-Bommidi/PixCrypt.git
+cd PixCrypt
 ```
 
 ### 2️⃣ Install Dependencies
