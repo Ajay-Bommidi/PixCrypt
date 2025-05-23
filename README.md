@@ -1,4 +1,6 @@
 # PixCrypt - Image Encryption & Decryption Tool
+![image (3)](https://github.com/user-attachments/assets/a34a7ad1-9be6-4882-9342-7b611538fcf0)
+
 
 PixCrypt is a lightweight but powerful tool for encrypting and decrypting images using **Pixel Swapping** and **Color Shifting** techniques. It provides an additional layer of security by obfuscating image data, making it unreadable without the correct decryption key.
 ![Screenshot 2025-03-05 120706](https://github.com/user-attachments/assets/22c7746f-bec4-47ff-b8a3-e8530e4fe91c)
