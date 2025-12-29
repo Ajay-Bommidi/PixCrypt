@@ -1,4 +1,5 @@
-# PixCrypt - Image Encryption & Decryption Tool
+# PixCrypt - Image Encryption & Decryption Tool 
+### (working)
 ![image (3)](https://github.com/user-attachments/assets/a34a7ad1-9be6-4882-9342-7b611538fcf0)
 
 
