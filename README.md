@@ -19,6 +19,7 @@ To get started with PixCrypt, follow these steps:
 ```bash
 sudo python3 -m venv myenv
 source myenv/bin/activate
+sudo chown -R kali:kali /home/kali/PixCrypt/myenv
 ```
 
 ### 1️⃣ Clone the Repository
